@@ -1,0 +1,14 @@
+{
+  "name": "lessons",
+  "version": "1.0.0",
+  "description": "homeworks",
+  "main": "nodejs/homework2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Razmik'",
+  "license": "ISC",
+  "dependencies": {
+    "random": "^3.0.3"
+  }
+}
